@@ -8,6 +8,6 @@ aumento = int(input("Digite a sua porcentagem de aumento: "))
 
 novo_salario = salario + (salario * (aumento/100))
 
-print(novo_salario)
+print("O seu novo salário é de R$%.2f" % novo_salario)
 
 
