@@ -10,3 +10,7 @@ calor = teste [9:14]
 joao_pessoa = teste [18:29]
 
 print("Essa é a estação do %s em %s " % (calor, joao_pessoa))
+
+teste2 = "Nós estamos procurando o rubi na floresta"
+
+print(teste2 [25:29])
